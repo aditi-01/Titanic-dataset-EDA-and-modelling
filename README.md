@@ -71,6 +71,7 @@ We came to the inference that people with more children had a better chance of s
 (Whether people who paid more had better chance at survival etc)
 
 ##### 11. We applied a count plot over embarked column. 
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic10.JPG)
 
 
 <h2 id="Models"> 3. Models:  </h2>
@@ -87,9 +88,11 @@ We have applied following <b>ML Models</b>:
 </ul>
 
 ####  Regular Accuracy score of all the applied models
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic12.JPG)
 
 
-#### Cross validation Accuracy score of all the models 
+#### Cross validation Accuracy score of all the models
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic13.JPG)
 
 
 <h2 id="c"> 4. Conclusion: </h2><br>
