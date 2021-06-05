@@ -33,30 +33,39 @@ P.S- Because of Data Visualization I developed interest in data science :smiley:
 #### Lets have a quick overview of EDA analysis and understand why the specific plots were applied.
 
 ##### 1. The very first thing we do is plot a count plot to visualise number of casualities and survivors.(we obviously cannot count the numbers from the CSV file and this is why we need data visualization plots)
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic1.JPG)
 
 
 ##### 2. Next we apply dist plots to gain an idea about distribution of passenger class of the total titanic voyagers. 
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic2.JPG)
 It is apparent that most passengers were travelling 3rd class. 
 
 
 ##### 3. Next we apply count plot to visualise distribution of male and female over the entire Titanic population. 
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic3.JPG)
 
 
 ##### 4. Applied dist plot to undertand how many male and female survived. (Here we are performing Bivate Analysis)
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic4.JPG)
 
 
 ##### 5. Next we visualize number of siblings and spouses over the population with a count plot.
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic5.JPG)
 
 
 ##### 6. Next we perform a bivariate analysis and find out how many people survived vs the number of siblings and spouse they had. 
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic6.JPG)
 we have an interesting inference that people who has more sibling and spouses had a better chance at survival.
 
 ##### 7. Next we perform a univariate analysis to visualize number of Children and parents aboard. 
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic8.JPG)
+
 
 ##### 8. We also did a bivariate analysis over number of survivors vs number of parents/ children aboard.
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic9.JPG)
 We came to the inference that people with more children had a better chance of survival.(We have already seen this in the movie though)
 
-##### 9. We also did a univariate analysis to visualize count of people with respect to ticket fare. 
+##### 9. We also did a univariate analysis to visualize count of people with respect to ticket fare.
 
 ##### 10. Performed a bivariate analysis to visualise how survival can we linked with ticket fare.
 (Whether people who paid more had better chance at survival etc)
