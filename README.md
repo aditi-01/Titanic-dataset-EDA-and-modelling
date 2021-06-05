@@ -66,9 +66,11 @@ we have an interesting inference that people who has more sibling and spouses ha
 We came to the inference that people with more children had a better chance of survival.(We have already seen this in the movie though)
 
 ##### 9. We also did a univariate analysis to visualize count of people with respect to ticket fare.
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic7.JPG)
+
 
 ##### 10. Performed a bivariate analysis to visualise how survival can we linked with ticket fare.
-(Whether people who paid more had better chance at survival etc)
+![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic14.JPG)
 
 ##### 11. We applied a count plot over embarked column. 
 ![](https://github.com/aditi-01/Titanic-dataset-EDA-and-modelling/blob/master/images/Titanic10.JPG)
